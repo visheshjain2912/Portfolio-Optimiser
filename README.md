@@ -13,4 +13,4 @@ We will be applying the concept of maximising Sharpe Ratio to do so.
 
 Yahoo Finances api has been used with the help of pandas-datareader to fetch the required data.
 
-![Data Used](\Data Used.png)
+![Data Used](https://user-images.githubusercontent.com/68889070/123811378-d0293e00-d910-11eb-9903-13efdccc2069.png)
