@@ -34,3 +34,10 @@ Yahoo Finances api has been used with the help of pandas-datareader to fetch the
 * Sharpe Ratio basically tells us about how much access returns can we get for some extra amount of volatility/risk.
 
 * It basically measures the performance of a risky investment and compares it to the performance of a risk-free investment.
+
+## Conclusion:
+* By taking less risk and being impartial towards every stock in our portfolio, we will get a good annual return.
+
+* But, by optimising the portfolio using Sharpe Ratio, we can see that taking a little bit of more risk can give us better annual return.
+
+* We also come to know about what percentage of our money should we invest in a particular stock to get those better results.
