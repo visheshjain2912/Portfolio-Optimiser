@@ -12,4 +12,5 @@ We will be applying the concept of maximising Sharpe Ratio to do so.
 ## Data Used
 
 Yahoo Finances api has been used with the help of pandas-datareader to fetch the required data.
+
 Format: ![Data Used](\Data Used.png)
